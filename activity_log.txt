@@ -1,0 +1,18 @@
+July 6th, 2019
+AF, JS
+
+Setup coding enviroment 
+Stack defined:
+                Deepin Linux
+                Visual Studio 
+
+                Github
+                Heroku
+
+    Boomtown dev enviroment:
+
+                Airbnb JS style guidelines
+                node.JS
+                ES lint
+                Prettier style guidelines
+

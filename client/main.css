@@ -1,0 +1,24 @@
+/* CSS declarations go here */
+.header{
+  position: absolute;
+  left:0 !important;
+  top: 0 !important;
+}
+
+.btn-blue {
+  background-color: #00bcd4 !important;
+}
+
+.logo {
+  display: inline-block;
+   border-radius: 200px;
+   box-sizing: border-box;
+   background-color: #DDD;
+   border: 2px solid #cfd8dc;
+
+
+}
+
+section {
+  padding-top: 100px !important
+}
